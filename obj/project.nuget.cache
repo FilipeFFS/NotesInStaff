@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P4ZsqKxklHVPUfp4yRVs09GpYsgyRoJBanpK3B+lfMyiH+J8DpHad918+CnHDaxl/zYADnGkdeh1216Dc9aE3A==",
+  "dgSpecHash": "Avv25KDD3yBttpt0pa9WdkujU7RRKqDrkRExF07g8J2qLQJf/rrBPDyPHHDsy/fiXfUImqTxj8ZCPcXj81e43g==",
   "success": true,
-  "projectFilePath": "C:\\PersonalProjects\\NotesInSheet\\NotesInStaff.csproj",
+  "projectFilePath": "C:\\PersonalProjects\\NotesInStaff\\NotesInStaff.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

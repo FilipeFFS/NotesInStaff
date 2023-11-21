@@ -12,3 +12,17 @@ C:\PersonalProjects\NotesInSheet\obj\Debug\net6.0\refint\NotesInStaff.dll
 C:\PersonalProjects\NotesInSheet\obj\Debug\net6.0\NotesInStaff.pdb
 C:\PersonalProjects\NotesInSheet\obj\Debug\net6.0\NotesInStaff.genruntimeconfig.cache
 C:\PersonalProjects\NotesInSheet\obj\Debug\net6.0\ref\NotesInStaff.dll
+C:\PersonalProjects\NotesInStaff\bin\Debug\net6.0\NotesInStaff.exe
+C:\PersonalProjects\NotesInStaff\bin\Debug\net6.0\NotesInStaff.deps.json
+C:\PersonalProjects\NotesInStaff\bin\Debug\net6.0\NotesInStaff.runtimeconfig.json
+C:\PersonalProjects\NotesInStaff\bin\Debug\net6.0\NotesInStaff.dll
+C:\PersonalProjects\NotesInStaff\bin\Debug\net6.0\NotesInStaff.pdb
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\NotesInStaff.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\NotesInStaff.AssemblyInfoInputs.cache
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\NotesInStaff.AssemblyInfo.cs
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\NotesInStaff.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\NotesInStaff.dll
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\refint\NotesInStaff.dll
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\NotesInStaff.pdb
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\NotesInStaff.genruntimeconfig.cache
+C:\PersonalProjects\NotesInStaff\obj\Debug\net6.0\ref\NotesInStaff.dll

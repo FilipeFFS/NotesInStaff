@@ -3,7 +3,7 @@
     public class Staff
     {
         private static string[] _staff = GetEmptyStaff();
-        public int QuantityOfLinesAndSpaces { get { return 20; } }
+        public int QuantityOfLinesAndSpaces { get { return 28; } }
 
         public void PrintStaff(int randomNumber)
         {
@@ -26,14 +26,14 @@
             var ledgerLine = "                     ---------------";
             var ledgerSpace = "                                    ";
 
-            var downLedgerLines = new string[6]
+            var downLedgerLines = new string[10]
             {
-                ledgerLine, ledgerSpace, ledgerLine, ledgerSpace, ledgerLine, ledgerSpace
+                ledgerLine, ledgerSpace, ledgerLine, ledgerSpace, ledgerLine, ledgerSpace, ledgerLine, ledgerSpace, ledgerLine, ledgerSpace
             };
 
-            var topLedgerLines = new string[6]
+            var topLedgerLines = new string[10]
             {
-                ledgerSpace, ledgerLine, ledgerSpace, ledgerLine, ledgerSpace, ledgerLine
+                ledgerSpace, ledgerLine, ledgerSpace, ledgerLine, ledgerSpace, ledgerLine, ledgerSpace, ledgerLine, ledgerSpace, ledgerLine
             };
 
             var line = "|-------------------------------------------------------------------------|";

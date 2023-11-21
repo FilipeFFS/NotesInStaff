@@ -2,11 +2,15 @@
 {
     public class GClefStrategy : IClefStrategy
     {
-        private readonly int PositionsToTakeOutOfTheStaffIndex = 8;
+        private readonly int PositionsToTakeOutOfTheStaffIndex = 12;
 
         private readonly static Dictionary<int, string> _gClefNotesPositions = new Dictionary<int, string>()
         {
             //ledger lines
+            { 16, "B" },
+            { 15, "A" },
+            { 14, "G" },
+            { 13, "F" },
             { 12, "E" },
             { 11, "D" },
             { 10, "C"},
@@ -29,7 +33,11 @@
             { -5, "B" },
             { -6, "A" },
             { -7, "G" },
-            { -8, "F" }
+            { -8, "F" },
+            { -9, "F" },
+            { -10, "F" },
+            { -11, "F" },
+            { -12, "F" }
         };
 
         public string GetClefName() =>

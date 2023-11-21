@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PersonalProjects\\NotesInSheet\\NotesInStaff.csproj",
+      "projectUniqueName": "C:\\PersonalProjects\\NotesInStaff\\NotesInStaff.csproj",
       "projectName": "NotesInStaff",
-      "projectPath": "C:\\PersonalProjects\\NotesInSheet\\NotesInStaff.csproj",
+      "projectPath": "C:\\PersonalProjects\\NotesInStaff\\NotesInStaff.csproj",
       "packagesPath": "C:\\Users\\filipe.suyama\\.nuget\\packages\\",
-      "outputPath": "C:\\PersonalProjects\\NotesInSheet\\obj\\",
+      "outputPath": "C:\\PersonalProjects\\NotesInStaff\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filipe.suyama\\AppData\\Roaming\\NuGet\\NuGet.Config",
